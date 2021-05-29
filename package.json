@@ -17,11 +17,11 @@
     "electron-packager": "^14.1.1",
     "wav": "^1.0.2",
     "wav-converter": "^1.0.0",
-    "ws": "^7.2.0"
+    "ws": "^7.4.6"
   },
   "dependencies": {
     "wav": "^1.0.2",
-    "ws": "^7.2.0"
+    "ws": "^7.4.6"
   },
   "build": {
     "appId": "com.slowdub.app",
